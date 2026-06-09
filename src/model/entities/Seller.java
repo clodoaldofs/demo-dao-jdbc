@@ -70,7 +70,7 @@ public class Seller implements Serializable {
 		this.baseSalary = baseSalary;
 	}
 
-	public Department getDepatment() {
+	public Department getDepartment() {
 		return depatment;
 	}
 
